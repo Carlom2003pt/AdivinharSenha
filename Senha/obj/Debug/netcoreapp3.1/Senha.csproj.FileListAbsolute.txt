@@ -1,0 +1,11 @@
+C:\Users\Samsung\source\repos\Senha\Senha\bin\Debug\netcoreapp3.1\Senha.exe
+C:\Users\Samsung\source\repos\Senha\Senha\bin\Debug\netcoreapp3.1\Senha.deps.json
+C:\Users\Samsung\source\repos\Senha\Senha\bin\Debug\netcoreapp3.1\Senha.runtimeconfig.json
+C:\Users\Samsung\source\repos\Senha\Senha\bin\Debug\netcoreapp3.1\Senha.runtimeconfig.dev.json
+C:\Users\Samsung\source\repos\Senha\Senha\bin\Debug\netcoreapp3.1\Senha.dll
+C:\Users\Samsung\source\repos\Senha\Senha\bin\Debug\netcoreapp3.1\Senha.pdb
+C:\Users\Samsung\source\repos\Senha\Senha\obj\Debug\netcoreapp3.1\Senha.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Senha\Senha\obj\Debug\netcoreapp3.1\Senha.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\Senha\Senha\obj\Debug\netcoreapp3.1\Senha.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\Senha\Senha\obj\Debug\netcoreapp3.1\Senha.dll
+C:\Users\Samsung\source\repos\Senha\Senha\obj\Debug\netcoreapp3.1\Senha.pdb
